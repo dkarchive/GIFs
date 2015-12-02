@@ -1,6 +1,8 @@
 # GIFs
 
-:heart: Favorite GIFs 
+GIFs are awesome :heart: 
+
+![](http://i.giphy.com/12UlfHpF05ielO.gif)
 
 ## Factory
 
