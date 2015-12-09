@@ -25,6 +25,13 @@ GIFs are awesome :heart:
 - http://gph.is/1vZXKtp
 - https://github.com/ReadmeCritic/Disinterest
 
+## Robots Work
+
+![](assets/robots-work.gif)
+
+- https://github.com/dkhamsing/awesome_bot
+- http://gph.is/1gU5itl
+
 ## Run
 
 ![](assets/run.gif)
