@@ -25,12 +25,12 @@ GIFs are awesome :heart:
 - http://gph.is/1vZXKtp
 - https://github.com/ReadmeCritic/Disinterest
 
-## Robots Work
+## Robot Walk
 
-![](assets/robots-work.gif)
+![](assets/robot-walk.gif)
 
 - https://github.com/dkhamsing/awesome_bot
-- http://gph.is/1gU5itl
+- http://gph.is/XM6gMT
 
 ## Run
 
