@@ -46,6 +46,13 @@ GIFs are awesome :heart:
 - http://gph.is/XKk8ay
 - https://github.com/ReadmeCritic/Run
 
+## Train Loop
+
+![](assets/train-loop.gif)
+
+- http://gph.is/1eZAeAz
+- https://github.com/dkhamsing/pdf_xcassets
+
 # Contact
 
 - [github.com/dkhamsing](https://github.com/dkhamsing)
