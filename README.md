@@ -18,6 +18,13 @@ GIFs are awesome :heart:
 - http://gph.is/1768v38
 - https://github.com/dkhamsing/forker
 
+## Fox Typing
+
+![](assets/fox-mulder-typing.gif)
+
+- http://gph.is/1Oexz9a
+- https://github.com/dkhamsing/disclose
+
 ## It's Alive
 
 ![](assets/its-alive.gif)
