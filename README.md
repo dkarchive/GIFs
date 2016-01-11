@@ -53,6 +53,14 @@ GIFs are awesome :heart:
 - http://gph.is/XKk8ay
 - https://github.com/ReadmeCritic/Run
 
+## Seinfeld
+
+![](assets/seinfeld-computer.gif)
+
+- http://gph.is/1cXJuuK
+- https://github.com/dkhamsing/bitbar_plugins_directory
+
+
 ## Train Loop
 
 ![](assets/train-loop.gif)
