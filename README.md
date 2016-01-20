@@ -1,6 +1,6 @@
 # GIFs
 
-GIFs are awesome :heart: 
+GIFs are awesome :heart:
 
 ![](http://i.giphy.com/12UlfHpF05ielO.gif)
 
@@ -31,6 +31,13 @@ GIFs are awesome :heart:
 
 - http://gph.is/1Lrarml
 - https://github.com/dkhamsing/frankenstein
+
+# Lightning
+
+![](assets/lightning.gif)
+
+- http://gph.is/1fKRD4w
+- https://github.com/dkhamsing/dotfiles
 
 ## Not Interested
 
