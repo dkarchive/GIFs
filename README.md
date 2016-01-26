@@ -4,6 +4,13 @@ GIFs are awesome :heart:
 
 ![](http://i.giphy.com/12UlfHpF05ielO.gif)
 
+## Cubes
+
+![](assets/cubes.gif)
+
+- http://gph.is/1JB8rpw
+- https://github.com/dkhamsing/travis_report
+
 ## Dog Typing
 
 ![](assets/dog-typing.gif)
