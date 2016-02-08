@@ -53,6 +53,13 @@ GIFs are awesome :heart:
 - http://gph.is/1vZXKtp
 - https://github.com/ReadmeCritic/Disinterest
 
+## Panda Tumblin'
+
+![](assets/panda-tumblin.gif)
+
+- http://gph.is/19776Kk
+- https://github.com/dkhamsing/tumblr_uploadr
+
 ## Robot Walk
 
 ![](assets/robot-walk.gif)
@@ -73,7 +80,6 @@ GIFs are awesome :heart:
 
 - http://gph.is/1cXJuuK
 - https://github.com/dkhamsing/bitbar_plugins_directory
-
 
 ## Train Loop
 
