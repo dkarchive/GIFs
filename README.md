@@ -79,7 +79,6 @@ GIFs are awesome :heart:
 ![](assets/seinfeld-computer.gif)
 
 - http://gph.is/1cXJuuK
-- https://github.com/dkhamsing/bitbar_plugins_directory
 
 ## Train Loop
 
