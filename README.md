@@ -64,8 +64,8 @@ GIFs are awesome :heart:
 
 ![](assets/robot-walk.gif)
 
-- https://github.com/dkhamsing/awesome_bot
 - http://gph.is/XM6gMT
+- https://github.com/dkhamsing/awesome_bot
 
 ## Run
 
