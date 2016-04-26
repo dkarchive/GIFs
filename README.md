@@ -18,6 +18,13 @@ GIFs are awesome :heart:
 - http://gph.is/1JB8rpw
 - https://github.com/dkhamsing/travis_report
 
+## Delete
+
+![](assets/delete.gif)
+
+- http://gph.is/1xIfjgW
+- https://github.com/dkhamsing/delete_my_tweets
+
 ## Dog Typing
 
 ![](assets/dog-typing.gif)
