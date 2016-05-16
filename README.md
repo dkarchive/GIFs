@@ -9,7 +9,7 @@ GIFs are awesome :heart:
 ![](assets/mac-computer.gif)
 
 - http://gph.is/Ooobqj
-- https://github.com/dkhamsing/dotfiles
+- https://github.com/dkhamsing/top
 
 ## Cubes
 
